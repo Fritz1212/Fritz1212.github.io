@@ -1,0 +1,10 @@
+h1 {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    top: 350px;
+}
+
+body {
+    background-color: pink;
+}
